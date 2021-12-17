@@ -1,4 +1,4 @@
-# MyProfile
+# About Me
 ![me](https://user-images.githubusercontent.com/95410193/146528713-edd5d215-9494-42e4-a600-d2749d770779.jpg)
 
 Hi, I’m Mitchell Bishop
